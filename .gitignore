@@ -1,0 +1,9 @@
+.env
+.vscode
+build/
+allure-report/
+
+ConfigDumpInfo.xml
+build
+out
+.scannerwork
